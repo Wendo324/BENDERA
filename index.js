@@ -5,23 +5,23 @@ const myQuestions = [
 	{
     number: 1,
     
-	 theQuestion:	`What fruit is this? <img class= 'fruit' src='basket/ad.png' alt="like a tiny orange">` ,
-    choice1:`kenya`,
+	 theQuestion:	`Which country's flag is this? <img class= 'fruit' src='basket/ad.png' alt="like a tiny orange">` ,
+    choice1:`Andorra`,
     choice2:`uganda`,
     choice3:`sahrawi`,
     choice4:`tanzania`,
-    answers: `kenya`
+    answers: `Andorra`
 
     
 	},
 	{
     number: 2,
-	theQuestion:`What fruit is this?<img class= 'fruit' src='basket/guava.png' alt="green on outside, pink on the inside">`,
-	    choice1:`pistacchio`,
-      choice2:`lime`, 
-      choice3:`guava`, 
-      choice4:`banana`,
-      answers: `guava`
+	theQuestion:`Which country's flag is this? <img class= 'fruit' src='basket/ae.png' alt="green on outside, pink on the inside">`,
+	    choice1:`Iraq`,
+      choice2:`Iran`, 
+      choice3:`UAE`, 
+      choice4:`Argentina`,
+      answers: `UAE`
 	},
 	{
     number: 3,
