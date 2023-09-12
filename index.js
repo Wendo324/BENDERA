@@ -5,12 +5,12 @@ const myQuestions = [
 	{
     number: 1,
     
-	 theQuestion:	`What fruit is this? <img class= 'fruit' src='http://sanleonardello.it/wp-content/uploads/2017/02/17868-300x300.jpg' alt="like a tiny orange">` ,
-    choice1:`not a fruit`,
-    choice2:`peach`,
-    choice3:`kumquat`,
-    choice4:`banana`,
-    answers: `kumquat`
+	 theQuestion:	`What fruit is this? <img class= 'fruit' src='basket/ad.png' alt="like a tiny orange">` ,
+    choice1:`kenya`,
+    choice2:`uganda`,
+    choice3:`sahrawi`,
+    choice4:`tanzania`,
+    answers: `kenya`
 
     
 	},
