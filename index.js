@@ -94,6 +94,15 @@ theQuestion:`Which country's flag is this? <img class= 'fruit' src='basket/ar.pn
       choice3:`Switzerland`, 
       choice4:`Belgium`,
       answers: `Belgium`
+  },
+     {
+    number: 11,
+	 theQuestion: `Which country's flag is this <img class= 'fruit' src='basket/bf.png' alt="a bunch of chiquitas">`,
+	    choice1:`Burkina Faso`,
+      choice2:`Mexico`, 
+      choice3:`Togo`, 
+      choice4:`Belgium`,
+      answers: `Burkina Faso`
 	},
 ];
 
