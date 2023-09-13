@@ -25,75 +25,75 @@ const myQuestions = [
 	},
 	{
     number: 3,
- theQuestion:`What fruit is this? <img class= 'fruit' src='basket/kermit.jpg' alt="a very happy kermit the frog">`,
-	   choice1:`pepper`,
-     choice2:`kiwi`,
-     choice3:`not a fruit`,
-     choice4:`banana`,
-     answers: `not a fruit`
+ theQuestion:`Which country's flag is this? <img class= 'fruit' src='basket/ag.png' alt="a very happy kermit the frog">`,
+	   choice1:`Bahamas`,
+     choice2:`Bangladesh`,
+     choice3:`Antigua and Barbuda`,
+     choice4:`Togo`,
+     answers: `Antigua and Barbuda`
 	},
 	{
     number: 4,
-theQuestion:`What fruit is this? <img class= 'fruit' src='basket/lychee.png' alt="rough armadadillo skin big seed white sweet inside">`,
-	  choice1:`dragon fruit`,
-    choice2:`pomegranate`,
-    choice3:`lychee`,
-    choice4:`banana`,
-    answers: `lychee`
+theQuestion:`Which country's flag is this <img class= 'fruit' src='basket/au.png' alt="rough armadadillo skin big seed white sweet inside">`,
+	  choice1:`New Zealand`,
+    choice2:`United Kingdom`,
+    choice3:`Australia`,
+    choice4:`Azerbaijan`,
+    answers: `Australia`
 	},
 	{
     number: 5,
-theQuestion:`What fruit is this? <img class= 'fruit' src='basket/papaya.jpg' alt="shape of eggplant, with tiny black seeds, inside is scarlet colored">`,
-    choice1:`toast`, 
-    choice2:`rasberry`, 
-    choice3:`papaya`, 
-    choice4:`banana`,
-    answers: `papaya`
+theQuestion:`Which country's flag is this? <img class= 'fruit' src='basket/ar.png' alt="shape of eggplant, with tiny black seeds, inside is scarlet colored">`,
+    choice1:`argentina`, 
+    choice2:`mexico`, 
+    choice3:`Portugal`, 
+    choice4:`Sao tome & Principe`,
+    answers: `argentina`
 	},
   {
     number: 6,
-	theQuestion:`What fruit is this?<img class= 'fruit' src='basket/acai.jpg' alt="a very healthy berry in fruit bowls">`,
-	    choice1:`floss`,
-      choice2:`cherry`, 
-      choice3:`açai`, 
-      choice4:`banana`,
-      answers: `açai`
+	theQuestion:`Which country's flag is this?<img class= 'fruit' src='basket/'az.png alt="a very healthy berry in fruit bowls">`,
+	    choice1:`Turkiye`,
+      choice2:`Armenia`, 
+      choice3:`Azerbaijan`, 
+      choice4:`Uruguay`,
+      answers: `Azerbaijan`
 	},
   {
     number: 7,
-	 theQuestion:`What fruit is this?<img class= 'fruit' src='basket/mango.jpg' alt="teardrop shaped, yellow-orangish, tropical fruit">`,
-	    choice1:`cookie`,
-      choice2:`dragon fruit`, 
-      choice3:`mango`, 
-      choice4:`banana`,
-      answers: `mango`
+	 theQuestion:`Which country's flag is this?<img class= 'fruit' src='basket/ba.png' alt="teardrop shaped, yellow-orangish, tropical fruit">`,
+	    choice1:`Tajikstan`,
+      choice2:`Bosnia and Herzegovina`, 
+      choice3:`Malawi`, 
+      choice4:`South Africa`,
+      answers: `Bosnia and Herzegovina`
 	},
   {
     number: 8,
-	 theQuestion:`What fruit is this?<img class= 'fruit' src='basket/passionfruit.jpg' alt="a tropical and delicious fruit, very seedy">`,
-	    choice1:`sticker`,
-      choice2:`pear`, 
-      choice3:`passion fruit`, 
-      choice4:`banana`,
-      answers: `passion fruit`
+	 theQuestion:`Which country's flag is this?<img class= 'fruit' src='basket/bb.png' alt="a tropical and delicious fruit, very seedy">`,
+	    choice1:`Spain`,
+      choice2:`Barbados`, 
+      choice3:`Trinidad & Tobago`, 
+      choice4:`St Vincent`,
+      answers: `Barbados`
 	},
   {
     number: 9,
-	 theQuestion:`What fruit is this? <img class= 'fruit' src='basket/persimmon.jpg' alt="strange fruit, it's all orange">`,
-	    choice1:`usb drive`,
-      choice2:`special pear`, 
-      choice3:`persimmon`, 
-      choice4:`banana`,
-      answers: `persimmon`
+	 theQuestion:`Which country's flag is this <img class= 'fruit' src='basket/bd.png' alt="strange fruit, it's all orange">`,
+	    choice1:`Bangladesh`,
+      choice2:`India`, 
+      choice3:`Pakistan`, 
+      choice4:`China`,
+      answers: `Bangladesh`
 	},
   {
     number: 10,
-	 theQuestion: `What fruit is this? <img class= 'fruit' src='basket/banana.jpg' alt="a bunch of chiquitas">`,
-	    choice1:`pen`,
-      choice2:`pear`, 
-      choice3:`orange you glad it's a banana`, 
-      choice4:`orange`,
-      answers: `orange you glad it's a banana`
+	 theQuestion: `Which country's flag is this <img class= 'fruit' src='basket/be.png' alt="a bunch of chiquitas">`,
+	    choice1:`Netherlands`,
+      choice2:`Germany`, 
+      choice3:`Switzerland`, 
+      choice4:`Belgium`,
+      answers: `Belgium`
 	},
 ];
 
