@@ -178,7 +178,7 @@ function clickSubmitButton() {
 }
 
 
-//this is the next button by the time it get to question 10 it'll stop showing the next question and show the results page//
+//this is the next button by the time it get to question 11 it'll stop showing the next question and show the results page//
 
 function clickNextButton() {
   $('#quiz').on('click', '#next-button', function(event){
@@ -228,7 +228,7 @@ function showPositiveFeedback () {
 const correctPage = 
     `<section class="feedback" role="main">
        <h2>Easy Peezy Lemon Squeezy!</h2>
-       <img src= "https://cdn.dribbble.com/users/436306/screenshots/4471190/pinya-dance.gif" alt="dancing pineapple">
+       <img class= 'fruit' src='basket/hap.gif'>
        <button id="next-button"><b>Next</b></button>
     </section>`
 ;
@@ -281,7 +281,7 @@ function theResultsAreIn(correctAnswers) {
       <h2>Final Score: ${correctAnswers} out of 10!</h2>
       <button id="restart-button"><b>Again?</b></button>
       <br>
-      <img class= 'fruit' src='basket/dancing.gif' alt="dancing fruit">
+      <img class= 'fruit' src='basket/hap.gif' alt="dancing fruit">
     </section>
   `); 
 }
