@@ -182,7 +182,7 @@ function clickSubmitButton() {
 
 function clickNextButton() {
   $('#quiz').on('click', '#next-button', function(event){
-      if(questionNumber === 10) {
+      if(questionNumber === 11) {
         theResultsAreIn(correctAnswers);
       }
      
@@ -234,8 +234,8 @@ const correctPage =
 ;
 const incorrectPage =
      `<section class="feedback" role="main">
-       <h2>Berry Wrong... <br> Correct Answer: <u> c </u> </h2>
-      <img class= 'fruit' src='basket/sadfruit.gif'>
+       <h2>Very Wrong... <br> Correct Answer: <u> c </u> </h2>
+      <img class= 'fruit' src='basket/THANOS.gif'>
        <button id="next-button"><b>Next</b></button>
     </section>`;
 
@@ -249,8 +249,8 @@ function xincorrectPage ()
 return
 
     `<section class="feedback">
-       <h2>Berry Wrong...</h2>
-       <img class= 'fruit' src='basket/sadfruit.gif' alt="a sad fruit">
+       <h2>Very Wrong...</h2>
+       <img class= 'fruit' src='basket/THANOS.gif' alt="a sad fruit">
        <button id="next-button"><b>Next</b></button>
     </section>`
 ;
