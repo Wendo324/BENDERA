@@ -52,7 +52,7 @@ theQuestion:`Which country's flag is this? <img class= 'fruit' src='basket/ar.pn
 	},
   {
     number: 6,
-	theQuestion:`Which country's flag is this?<img class= 'fruit' src='basket/'az.png' alt="a very healthy berry in fruit bowls">`,
+	theQuestion:`Which country's flag is this?<img class= 'fruit' src='basket/az.png' alt="a very healthy berry in fruit bowls">`,
 	    choice1:`Turkiye`,
       choice2:`Armenia`, 
       choice3:`Azerbaijan`, 
