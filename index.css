@@ -1,44 +1,23 @@
-.bg-img {
-  /* The image used */
-  background-image: url("img_nature.jpg");
-
-  min-height: 380px;
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-
-  /* Needed to position the navbar */
-  position: relative;
+.icon-bar {
+  width: 90px; /* Set a specific width */
+  background-color: #555; /* Dark-grey background */
 }
 
-/* Position the navbar container inside the image */
-.container {
-  position: absolute;
-  margin: 20px;
-  width: auto;
+.icon-bar a {
+  display: block; /* Make the links appear below each other instead of side-by-side */
+  text-align: center; /* Center-align text */
+  padding: 16px; /* Add some padding */
+  transition: all 0.3s ease; /* Add transition for hover effects */
+  color: white; /* White text color */
+  font-size: 36px; /* Increased font-size */
 }
 
-/* The navbar */
-.topnav {
-  overflow: hidden;
-  background-color: #333;
+.icon-bar a:hover {
+  background-color: #000; /* Add a hover color */
 }
 
-/* Navbar links */
-.topnav a {
-  float: left;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
-
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
+.active {
+  background-color: #04AA6D; /* Add an active/current color */
 }
 /* Style the video: 100% width and height to cover the entire window */
 #myVideo {
