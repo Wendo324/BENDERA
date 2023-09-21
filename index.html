@@ -12,31 +12,26 @@
   </head>
   
   <body>
-    <!-- Add icon library -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- The overlay -->
+<div id="myNav" class="overlay">
 
-<div class="icon-bar">
-  <a class="active" href="#"><i class="fa fa-home"></i></a>
-  <a href="#"><i class="fa fa-search"></i></a>
-  <a href="#"><i class="fa fa-envelope"></i></a>
-  <a href="#"><i class="fa fa-globe"></i></a>
-  
- 
-</div><form action="/action_page.php">
-<main role='main'>
-    <div class="section group">
-      <div id='quiz' class="center">
-        <section id="start-page">
-          <div class="col span-1">
-	      <div class="bg-img">
-  <div class="container">
-    <div class="topnav">
-      <a href="#home">Home</a>
-      <a href="#news">News</a>
-      <a href="#contact">Contact</a>
-      <a href="#about">About</a>
-    </div>
-	    <!-- The video -->
+  <!-- Button to close the overlay navigation -->
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+
+  <!-- Overlay content -->
+  <div class="overlay-content">
+    <a href="#">About</a>
+    <a href="#">Services</a>
+    <a href="#">Clients</a>
+    <a href="#">Contact</a>
+  </div>
+
+</div>
+
+<!-- Use any element to open/show the overlay navigation menu -->
+<span onclick="openNav()">open</span>
+   
+  <!-- The video -->
 <video autoplay muted loop id="myVideo">
   <source src="rain.mp4" type="video/mp4">
 </video>
