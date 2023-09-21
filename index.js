@@ -1,3 +1,12 @@
+/* Open when someone clicks on the span element */
+function openNav() {
+  document.getElementById("myNav").style.width = "100%";
+}
+
+/* Close when someone clicks on the "x" symbol inside the overlay */
+function closeNav() {
+  document.getElementById("myNav").style.width = "0%";
+}
 'use strict'
 
 //these are my questions and choices//
@@ -503,15 +512,7 @@ function theResultsAreIn(correctAnswers) {
     </section>
   `); 
 }
-/* Open when someone clicks on the span element */
-function openNav() {
-  document.getElementById("myNav").style.width = "100%";
-}
 
-/* Close when someone clicks on the "x" symbol inside the overlay */
-function closeNav() {
-  document.getElementById("myNav").style.width = "0%";
-}
 
 //this runs the stuff//
 function callButtons() {
