@@ -1,3 +1,6 @@
 [submodule "bendera/world"] 
   path = bendera/world 
   url = git://https://github.com/Wendo324/bendera
+[submodule "BENDERA"]
+	path = BENDERA
+	url = https://github.com/Wendo324/world
