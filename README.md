@@ -28,6 +28,8 @@ Then, in your browser, open the local host to view it! 🎉 🎉
 Bendera web application provides geography nerds an opportunity to learn more about the flags of the world.
 
 **TECHNOLOGIES USED**💻
+
+
 ![JS](https://github.com/Wendo324/BENDERA/assets/106747572/873cab68-43ba-4082-8d9f-78e2899bc50f)![CSS](https://github.com/Wendo324/BENDERA/assets/106747572/fc9c0b2b-7468-4a1a-8b50-7fb2333043bd)![HT](https://github.com/Wendo324/BENDERA/assets/106747572/c76ab6be-61af-45aa-9944-c6f9046439d9)
 
 
